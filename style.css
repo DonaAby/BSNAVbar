@@ -2,3 +2,17 @@
     font-family: 'Shantell Sans', cursive;
 }
 
+.card img{
+    width: 100%;
+    height: 300px;
+}
+.icons{
+    margin-left: 3%;
+    width: 5%;
+    height: 8vh;
+    background-color: red;
+    border-radius: 45px;
+    direction: flex;
+    justify-content: center;
+    align-items: center;
+}
