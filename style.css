@@ -9,10 +9,14 @@
 .icons{
     margin-left: 3%;
     width: 5%;
-    height: 8vh;
+    height: 7vh;
     background-color: red;
     border-radius: 45px;
     direction: flex;
     justify-content: center;
     align-items: center;
+    padding: 9px;
+}
+.carousel-item img{
+    height: 400px;
 }
